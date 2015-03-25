@@ -1,0 +1,12 @@
+Exercise 1 Questions
+1. 350px
+2. It makes the width smaller: from 350px to approx 310px
+3. They both move to the right side of the page and line up side by side rather than one over the other.
+4. They both move to the left side of the page and line up side by side rather than one over the other.
+5. The text and box of the instructions box wraps to fit the size of the window however the Div2 box does
+not change and the text gets cut off from the page
+6. The Div1 box moves to the right side of the page and the div2 box stays on the left side
+7. The Div1 box stretches out really long passed the length of the ruler and the text gets cut off on the
+right side the boxes also move to one on top of the other
+8.
+9. If you adjust the browser window size the boxes and text adjust to fit the screen so no content gets cut off
